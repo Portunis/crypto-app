@@ -104,7 +104,7 @@
               <dt class="text-sm font-medium text-gray-500 truncate">
                 {{ t.name }} - USD
               </dt>
-              <dd class="mt-1 text-3xl font-semibold text-gray-900">
+              <dd class="mt-1 text-3xl font-semibold text-gray-900 ">
                 {{ t.price }}
               </dd>
             </div>
